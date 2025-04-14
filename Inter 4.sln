@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCPCimag1", "PCPCimag1\PCPCimag1.csproj", "{B86AF919-D049-4D2E-BEF0-A935AEE33657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B86AF919-D049-4D2E-BEF0-A935AEE33657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86AF919-D049-4D2E-BEF0-A935AEE33657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86AF919-D049-4D2E-BEF0-A935AEE33657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86AF919-D049-4D2E-BEF0-A935AEE33657}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54BCC26D-A935-453B-9AB7-1697D3759374}
+	EndGlobalSection
+EndGlobal
